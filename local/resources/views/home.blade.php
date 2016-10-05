@@ -89,6 +89,7 @@
   .badge {
     display: inline-block;
     min-width: 10px;
+    width:  50px;
     padding: 6px 7px;
     font-size: 12px;
     font-weight: 700;
