@@ -4,7 +4,8 @@ database setting in .enf file
 
 <b>Demo</b>
 http://aplikasiandroid.org/apps/muklasMasiyaTest/
-username : admin@aplikasiandroid.org
+<br/>
+username : admin@aplikasiandroid.org <br/>
 pass : qwe123
 
 
